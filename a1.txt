@@ -3,3 +3,4 @@ hi
 =======
 hi hellow
 >>>>>>> gitb_1
+How are you

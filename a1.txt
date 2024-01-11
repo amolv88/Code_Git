@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 hi
-=======
-hi hellow
->>>>>>> gitb_1
+hi hellow 
 by
+How are you
+test
